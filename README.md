@@ -29,7 +29,7 @@
 
 ## 모델링 ERD
 
-https://files.slack.com/files-pri/TH0U6FBTN-F029Q1TS20M/______________2021-07-31_20-25-17.png
+![](https://images.velog.io/images/tmvpdlaos/post/6bd613a6-c852-498f-8957-7cf2f473babd/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202021-08-05%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%206.46.54.png)
 
 ## 구현 기능
 
