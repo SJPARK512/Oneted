@@ -15,9 +15,9 @@
 
 - 기업과 취업 중인 고객을 서로 매칭해 지원을 하는 시스템이 매력적으로 다가와 진행하게 되었습니다.
 
-### **데모 영상(이미지 클릭)**
+### **Main**
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/caab510e-b24a-4363-955e-1d2b98c31144/스크린샷_2021-07-30_오후_4.51.48.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/caab510e-b24a-4363-955e-1d2b98c31144/스크린샷_2021-07-30_오후_4.51.48.png)
+![](https://images.velog.io/images/tmvpdlaos/post/78b8ca32-a6b6-4283-8ffc-f95d5f74f74f/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202021-08-08%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%207.32.25.png)
 
 # **적용 기술 및 구현 기능**
 
